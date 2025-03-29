@@ -19,9 +19,22 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  font-weight: 200;
+  align-items: center;
+  margin: 20px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  font-size: xx-large;
+}
+
+.container {
+  background: #e3f4ff;
+  margin: 20px;
+  align-items: center;
 }
